@@ -132,7 +132,7 @@ function renderAbout() {
   }
 
   return `
-    <h2 class="hero-statement">Video &amp; TV that grows <span class="accent">audiences</span>,<br>unlocks <span class="accent">revenue</span> and builds<br>long-lasting <span class="accent">fans</span>.</h2>
+    <h2 class="hero-statement">Video &amp; TV that grows <br class="br-m"><span class="accent">audiences</span>,<br class="br-d"> unlocks <br class="br-m"><span class="accent">revenue</span> and builds<br>long-lasting <span class="accent">fans</span>.</h2>
 
     <p class="section-eyebrow">About Us</p>
     <div class="about-row">
